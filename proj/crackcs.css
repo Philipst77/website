@@ -1,0 +1,41 @@
+h1{
+    border-radius: 10px;
+    border:20px;
+    border-style: groove;
+    border-color: green;
+}
+
+
+
+h2.Sports{
+    border: 20px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: silver;
+}
+
+h2.Movies{
+
+    border: 20px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: black;
+}
+
+h2.APK{
+    border: 20px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: red;
+}
+
+h1.Entrance{
+
+    margin-left: 40px;
+
+}
+
+    body.bdy{
+
+        margin-left: 40px;
+    }
